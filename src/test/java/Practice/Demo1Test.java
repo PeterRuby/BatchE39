@@ -9,5 +9,6 @@ public class Demo1Test {
 	public void carTest()
 	{
 		System.out.println("Benz");
+		System.out.println("Thor");
 	}
 }
